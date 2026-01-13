@@ -47,7 +47,7 @@
 
 •	Data Strategy Application: Methods for modernizing manual data collection into scalable, cloud-based infrastructures are evaluated through a comprehensive business case study.
 
-![Azure_Workbook4](workbook_Image_5.jpg)
+![Azure_Workbook5](workbook_Image_5.jpg)
 
 ## Workbook_6 Summary
 
