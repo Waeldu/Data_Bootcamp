@@ -1,5 +1,5 @@
 # Data_Bootcamp
-WorkBooK_1 Summary
+## WorkBooK_1 Summary
 
 •	Legal Compliance: Regulations governing data security and privacy, such as GDPR and the Data Protection Act, are examined.
 
@@ -11,7 +11,7 @@ WorkBooK_1 Summary
 
 ![Excel_workbook1](workbook_Image_1.jpg)
 
-Workbook_2 Summary
+## Workbook_2 Summary
 
 •	Tableau Ecosystem: The distinct purposes and environments of various Tableau versions, such as Desktop, Server, and Public, are compared and contrasted.
 
@@ -25,7 +25,7 @@ Workbook_2 Summary
 ![Power BI_Workbook2](workbook_Image_POWER_BI_2.jpg)
 
 
-Workbook_3 Summary
+## Workbook_3 Summary
 
 •	Database Structure: Fundamental concepts such as primary and foreign keys, along with various relational models (1:1, 1:M, and M:M), are explored.
 
@@ -37,7 +37,7 @@ Workbook_3 Summary
 
 ![MYSQL_(Workbook3](workbook_Image_3.jpg)
 
-Workbook_4 Summary
+## Workbook_5 Summary
 
 •	Cloud Architecture: Essential cloud service models (IaaS, PaaS, SaaS) and various deployment strategies, such as Public and Hybrid clouds, are analyzed.
 
@@ -47,9 +47,9 @@ Workbook_4 Summary
 
 •	Data Strategy Application: Methods for modernizing manual data collection into scalable, cloud-based infrastructures are evaluated through a comprehensive business case study.
 
-![Azure_Workbook5](workbook_Image_4.jpg)
+ ![Azure_workbook5)(workbook_Image_5.jpg)
 
-Workbook_5 Summary
+## Workbook_6 Summary
 
 •	Python Programming: Core programming logic and syntax are practised through the implementation of algorithmic challenges like "FizzBuzz".
 
@@ -59,4 +59,4 @@ Workbook_5 Summary
 
 •	Visualisation and Export: Skills for visualising analytical results and exporting processed data for professional portfolio development are acquired.
 
-![Python_workbook6](Workbook_Image_5.jpg)
+![Python_workbook6](Workbook_Image_6.jpg)
