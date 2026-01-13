@@ -47,7 +47,7 @@ Workbook_4 Summary
 
 •	Data Strategy Application: Methods for modernizing manual data collection into scalable, cloud-based infrastructures are evaluated through a comprehensive business case study.
 
-![Azure_Workbook4](workbook_Image_4.jpg)
+![Azure_Workbook5](workbook_Image_4.jpg)
 
 Workbook_5 Summary
 
@@ -59,4 +59,4 @@ Workbook_5 Summary
 
 •	Visualisation and Export: Skills for visualising analytical results and exporting processed data for professional portfolio development are acquired.
 
-![Python_workbook5](Workbook_Image_5.jpg)
+![Python_workbook6](Workbook_Image_5.jpg)
