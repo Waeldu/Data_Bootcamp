@@ -9,7 +9,7 @@ WorkBooK_1 Summary
 
 •	Professional Presentation: Strategies and tools for the preparation and delivery of data-driven insights to executive stakeholders are mastered
 
-![image alt]{ https://github.com/Waeldu/Demo171125/blob/main/workbook_Image_1.jpg}
+![Excel_workbook1](workbook_Image_1.jpg)
 
 Workbook_2 Summary
 
@@ -21,9 +21,9 @@ Workbook_2 Summary
 
 •	Power BI Reporting: Practical skills in report design and dashboard creation are developed through hands-on labs within the Power BI Desktop application.
 
-![image alt]{ https://github.com/Waeldu/Demo171125/blob/main/workbbook_Image_Tableau_2.jpg}
+![Tableau_Workbook2](workbbook_Image_Tableau_2.jpg)
+![Power BI_Workbook2](workbook_Image_POWER_BI_2.jpg)
 
-![image alt]{ https://github.com/Waeldu/Demo171125/blob/main/workbook_Image_POWER_BI_2.jpg}
 
 Workbook_3 Summary
 
@@ -35,7 +35,7 @@ Workbook_3 Summary
 
 •	System Management: The complete lifecycle of a database, from schema design and implementation using SQL commands to maintenance and security protocols, is detailed.
 
-![image alt]{ https://github.com/Waeldu/Demo171125/blob/main/workbook_Image_3.jpg}
+![MYSQL_(Workbook3](workbook_Image_3.jpg)
 
 Workbook_4 Summary
 
@@ -47,7 +47,7 @@ Workbook_4 Summary
 
 •	Data Strategy Application: Methods for modernizing manual data collection into scalable, cloud-based infrastructures are evaluated through a comprehensive business case study.
 
-![image alt]{ https://github.com/Waeldu/Demo171125/blob/main/workbook_Image_4.jpg}
+![Azure_Workbook4](workbook_Image_4.jpg)
 
 Workbook_5 Summary
 
@@ -59,6 +59,4 @@ Workbook_5 Summary
 
 •	Visualisation and Export: Skills for visualising analytical results and exporting processed data for professional portfolio development are acquired.
 
-![image alt]{ https://github.com/Waeldu/Demo171125/blob/main/Workbook_Image_5.jpg}
-
-
+![Python_workbook5](Workbook_Image_5.jpg)
