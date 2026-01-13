@@ -1,5 +1,5 @@
 # Data_Bootcamp
-## WorkBooK_1 Summary
+## WorkBook_1 Summary
 
 •	Legal Compliance: Regulations governing data security and privacy, such as GDPR and the Data Protection Act, are examined.
 
