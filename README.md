@@ -60,3 +60,8 @@
 •	Visualisation and Export: Skills for visualising analytical results and exporting processed data for professional portfolio development are acquired.
 
 ![Python_workbook6](Workbook_Image_6.jpg)
+
+
+![Just IT Certificate](Just_IT_Certificate.jpg).
+
+
