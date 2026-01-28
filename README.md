@@ -61,6 +61,7 @@
 
 ![Python_workbook6](Workbook_Image_6.jpg)
 
+
 ![Just IT Certificate](Just_IT_Certificate.jpg).
 
 
